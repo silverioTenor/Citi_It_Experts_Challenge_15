@@ -1,4 +1,4 @@
-## Desafio 15 do Citi It Experts
+## Desafio 15 do programa It Experts
 
 #### Criação de um sistema de busca para filmes de uma locadora
 
